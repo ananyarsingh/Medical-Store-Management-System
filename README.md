@@ -9,7 +9,7 @@ This is the virtual medicine shop where and it developed using both the customer
 # Database Snapshots :
 
 
-![javadb1](https://user-images.githubusercontent.com/66235628/87808282-0ba13880-c877-11ea-9a1a-060dcb5afaab.png)
+![javadb1](https://user-images.githubusercontent.com/66235628/87810831-3bead600-c87b-11ea-9f1e-34313444ebf0.png)
 
 ![javadb2](https://user-images.githubusercontent.com/66235628/87808311-1eb40880-c877-11ea-885b-0c6dab8a6abd.png)
 
